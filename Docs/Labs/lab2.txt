@@ -1,0 +1,3 @@
+Customer(register;  see the whole inf(gallery, contacts, menu etc.; making orders; leave the comments))
+administrator(add, change, delete inf and content, managing users)
+ordinary visitors(just view catalogs, galery and content)
