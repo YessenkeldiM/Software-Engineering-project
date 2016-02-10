@@ -1,0 +1,15 @@
+1)Problems to example 3
+-There are no developers state names
+-in product page there is no description for top three buttons on the box(what are they for?)
+-in product page, there is no product number available on the page(there is number of pages, but no product)
+-the whole project is done in three languages at a time(should be KZ,TR,RUS separetely by choise)
+-for kz users there are one extra menu column when you go from Basket to Report.
+
+
+
+2) Benefits of doing A2screenshots:
++The main benefit of prototyping is that you can visualize your project which will help you to write a code
++You prepare the foundation of your prject by constructing not only visual side but also a logical side
++Determination of actors and user cases help to divide the fuctionality and work
++Screenshots are beneficial because is could be shown to customer before the work start and save time on corrections from his side
+
