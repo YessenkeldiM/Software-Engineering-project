@@ -1,0 +1,11 @@
+1.
+1) In use case: "Registration of new Employee by Dean", don't have Pre-conditions
+2) In use case: "Registration of new Employee by Dean", don't have Post-conditions
+3) In use case: "Registration Group", don't have Post-conditions
+4) In use case: "Registration of new Employee by Dean", don't have Post-conditions
+5) In use case: "Registration Course", don't have Post-conditions
+6) Don't use a professional writing style 
+7) In use case, administrator don't have "Grade work" (not full information, not accesses)
+2. 
+1) map of sales points(Google maps) 
+2) product list(db)
