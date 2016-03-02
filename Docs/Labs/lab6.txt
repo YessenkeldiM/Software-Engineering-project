@@ -1,0 +1,3 @@
+- not treacrable (goes from 3.1.1 to 3.1.4 and etc.) Nauryz Tagzym
+- Incomplete (at the page 9 on the use-case diagram there are not enough use-cases or too many actors, 
+so in both cases it is not fully done) Miras Yessenkeldi
